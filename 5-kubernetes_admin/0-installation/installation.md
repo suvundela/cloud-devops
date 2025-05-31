@@ -1,7 +1,7 @@
 # Kubernetes installation in ubuntu
 
 - Step 1: Create k8s cluster in 3 node lab setup (1 master & 2 worker node) in Google Cloud Planform
-- You create master node + 2 worker nodes vm machine with ubuntu-2404-lts Operating system
+- You create master node + 2 worker nodes vm machine with ubuntu-2505 Operating system
 
 - All 3 VM must have minimum 2 CPU + 4 gb memory
 
